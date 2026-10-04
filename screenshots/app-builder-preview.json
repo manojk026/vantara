@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vantara Premium Water",
+      "hasCanvas": false,
+      "bodyTextLen": 1938,
+      "bodyTextHash": "c96457989e9c825c841e4e1d7771dcbb764306145d2c41d776e6e662318f2828",
+      "bodyTextPrefix": "Vantara Home Collection Source Reach Us Let's Talk Premium Miner",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vantara Premium Water",
+      "hasCanvas": false,
+      "bodyTextLen": 1943,
+      "bodyTextHash": "a4b6f5a29fed2bc5dc69b3f5a98327baf4855c3ce67c624bd36bb1860f4fcad4",
+      "bodyTextPrefix": "Vantara Home Collection Source Reach Us Cart Let's Talk Premium ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

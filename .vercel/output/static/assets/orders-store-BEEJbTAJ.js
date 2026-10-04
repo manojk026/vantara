@@ -1,0 +1,1 @@
+import{d as e,f as t}from"./navbar-DMMAEi3M.js";var n=t()(e((e,t)=>({orders:[],add:n=>e({orders:[n,...t().orders]}),get:e=>t().orders.find(t=>t.id===e)}),{name:`vantara-orders`}));function r(){let e=Math.floor(1e3+Math.random()*9e3);return`VAN-${Date.now().toString(36).toUpperCase().slice(-4)}${e}`}export{n,r as t};
